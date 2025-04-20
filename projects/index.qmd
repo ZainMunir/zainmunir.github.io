@@ -1,0 +1,51 @@
+---
+title: "Projects I've Done"
+---
+
+
+# Personally
+
+## Mario-Off
+
+[Website](https://mario-off.web.app/)
+
+## Life-Series (WIP)
+
+[Website](https://life-series.vercel.app/seasons/1)
+
+# Academically
+
+## As a Student
+
+### Human Computer Interaction
+
+#### Lo-Fi Prototype
+[Website](https://zainmunir.github.io/hci-lofi-prototype/) and [repo](https://github.com/ZainMunir/hci-lofi-prototype)
+
+#### Hi-Fi Prototype
+[Website](https://r0mbertus.github.io/human-computer-interaction/) and [repo](https://github.com/R0mbertus/human-computer-interaction)
+
+### Crowd Computing
+
+[Website](https://crowd-computing-2024.web.app/) and [repo](https://github.com/ZainMunir/crowd-computing-2024)
+
+
+## As a Teaching Assistant
+
+### Computer Programming Project 
+
+#### Demo to showcase INVOKEVIRTUAL and Local Variables
+
+[Website](https://zainmunir.github.io/copp-methods/) and the [repo](https://github.com/ZainMunir/copp-methods)
+
+#### Evaluation
+
+[Website](https://zainmunir.github.io/copp-evaluation/) 
+
+### Object Oriented and Functional Programming
+
+[Website](https://zainmunir.github.io/oofp-repl/)
+
+
+
+

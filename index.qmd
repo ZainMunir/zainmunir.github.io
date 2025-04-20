@@ -1,7 +1,6 @@
 ---
-title: "ZainMunir"
+title: "Hello World"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, this is my (WIP) landing page. See [Projects](projects/index.qmd) for at least something to look at
