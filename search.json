@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects I’ve Done",
     "section": "",
-    "text": "About this site"
+    "text": "Website\n\n\n\nWebsite"
+  },
+  {
+    "objectID": "projects/index.html#mario-off",
+    "href": "projects/index.html#mario-off",
+    "title": "Projects I’ve Done",
+    "section": "",
+    "text": "Website"
+  },
+  {
+    "objectID": "projects/index.html#life-series-wip",
+    "href": "projects/index.html#life-series-wip",
+    "title": "Projects I’ve Done",
+    "section": "",
+    "text": "Website"
+  },
+  {
+    "objectID": "projects/index.html#as-a-student",
+    "href": "projects/index.html#as-a-student",
+    "title": "Projects I’ve Done",
+    "section": "As a Student",
+    "text": "As a Student\n\nHuman Computer Interaction\n\nLo-Fi Prototype\nWebsite and repo\n\n\nHi-Fi Prototype\nWebsite and repo\n\n\n\nCrowd Computing\nWebsite and repo"
+  },
+  {
+    "objectID": "projects/index.html#as-a-teaching-assistant",
+    "href": "projects/index.html#as-a-teaching-assistant",
+    "title": "Projects I’ve Done",
+    "section": "As a Teaching Assistant",
+    "text": "As a Teaching Assistant\n\nComputer Programming Project\n\nDemo to showcase INVOKEVIRTUAL and Local Variables\nWebsite and the repo\n\n\nEvaluation\nWebsite\n\n\n\nObject Oriented and Functional Programming\nWebsite"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ZainMunir",
+    "title": "Hello World",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi, this is my (WIP) landing page. See Projects for at least something to look at"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Why do you wanna know, huh? Creep"
   }
 ]
