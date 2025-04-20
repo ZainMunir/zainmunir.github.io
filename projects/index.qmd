@@ -44,6 +44,8 @@ title: "Projects I've Done"
 
 ### Object Oriented and Functional Programming
 
+#### Shunting Yard Algorithm Demo
+
 [Website](https://zainmunir.github.io/oofp-repl/)
 
 
